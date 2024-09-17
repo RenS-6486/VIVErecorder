@@ -1,4 +1,4 @@
-# VIVETracker_python
+# VIVE Ultimate Tracker Recorder
 
 Directly read orientation and position data from the VIVE Ultimate Tracker using Python. Only available on Windows. Originally from https://github.com/jkulozik/UltimateTracker_python
 
