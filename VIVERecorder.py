@@ -259,7 +259,7 @@ def main():
     plotter = LivePlotter()
 
     # enable or disable plots (for maximum performance disable all plots)
-    plot_3d = False # live 3D plot (might affect performance)
+    plot_3d = True # live 3D plot (might affect performance)
     plot_t_xyz = False # live plot of x, y, z positions
     log_data = True # log data to CSV file
 
